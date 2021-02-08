@@ -6,10 +6,12 @@
 	<a href="https://www.linkedin.com/in/raphaelswk/" target="_blank" rel="noopener noreferrer">
 		<img alt="Made by" src="https://img.shields.io/badge/made%20by-Raphael%20Socolowski-%23FF9000">
 	</a>
-	<img alt="GitHub" src="github/GoBarberScreens.png">
+	<a href="https://github.com/raphaelswk/go-barber/blob/main/LICENSE">
+		<img alt="GitHub" src="https://img.shields.io/github/license/raphaelswk/go-barber?color=%23FF9000">
+	</a>
 </p>
 
-<img alt="Mockup" src="https://res.cloudinary.com/eliasgcf/image/upload/v1587509596/GoBarber/mockup_ocggit.png">
+<img alt="Mockup" src="github/GoBarberScreens.png">
 
 ## 👨🏻‍💻 Hi everyone, I made some changes here
 
