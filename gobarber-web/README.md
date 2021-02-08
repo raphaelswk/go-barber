@@ -42,8 +42,7 @@
 </p>
 
 ## 💇🏻‍♂️ About the project
-
-Soon
+The Web Client is to be used by the Barbers and they will be able to see their appointments by choosing a day of the month.
 
 To see the **api**, click here: [GoBarber Rest API](https://github.com/raphaelswk/go-barber/tree/main/gobarber-backend)</br>
 
