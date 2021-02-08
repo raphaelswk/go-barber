@@ -48,8 +48,7 @@ Customers can choose the best time available to them.
 
 Providers can see all their appointments, manage the times, also see if one client canceled the schedule.
 
-To see the **web client**, click here: [GoBarber Web](https://github.com/EliasGcf/gobarber-web)<br />
-To see the **mobile client**, click here: [GoBarber Mobile](https://github.com/EliasGcf/gobarber-mobile)
+To see the **web client**, click here: [GoBarber Web](https://github.com/raphaelswk/go-barber/tree/main/gobarber-web)<br />
 
 ## 🚀 Technologies
 
@@ -83,7 +82,7 @@ Import the `Insomnia.json` on Insomnia App or click on [Run in Insomnia](#insomn
 - [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
 - One instance of [PostgreSQL](https://www.postgresql.org/)
 
-> Obs.: I recommend use docker
+> Obs.: I recommend using docker
 
 **Clone the project and access the folder**
 
