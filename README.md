@@ -11,7 +11,7 @@
 	</a>
 </p>
 
-<img alt="Mockup" src="github/GoBarberScreens.png">
+<img alt="Mockup" src=".github/GoBarberScreens.png">
 
 ## 👨🏻‍💻 Hi everyone, I made some changes here
 
