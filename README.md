@@ -13,11 +13,9 @@
 
 <img alt="Mockup" src=".github/GoBarberScreens.png">
 
-## 👨🏻‍💻 Hi everyone, I made some changes here
-
-To make this project more organized, I moved the applications **(rest api, web client, mobile client)** to 3 different repositories.
-
-Here are the links to them
+## :bookmark: About
+GoBarber is a barbershop management system where barbers can share their availability and customers are able to schedule service base on it.
+This was the main project created during GoStack bootcamp offered by [Rocketseat](https://rocketseat.com.br/), a 3 months bootcamp where attendees were able to learn TypeScript, Node.js, React and React Native. This project is split in 2 different folders one for REST API and other for Web Application, here are the links to them:
 
 - [REST API](https://github.com/raphaelswk/go-barber/tree/main/gobarber-backend)
 - [Web client](https://github.com/raphaelswk/go-barber/tree/main/gobarber-web)
