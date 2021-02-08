@@ -38,15 +38,15 @@
 </br>
 
 <p align="center">
-  <img alt="Layout" src="https://res.cloudinary.com/eliasgcf/image/upload/v1588811213/GoBarber/Kapture_2020-05-06_at_21.25.26_tijnl5.gif">
+  <img alt="Layout" src="https://github.com/raphaelswk/go-barber/blob/main/.github/GoBarberWeb.gif">
 </p>
 
 ## 💇🏻‍♂️ About the project
 
 Soon
 
-To see the **api**, click here: [GoBarber Rest API](https://github.com/EliasGcf/gobarber-api)</br>
-To see the **mobile client**, click here: [GoBarber Mobile](https://github.com/EliasGcf/gobarber-mobile)
+To see the **api**, click here: [GoBarber Rest API](https://github.com/raphaelswk/go-barber/tree/main/gobarber-backend)</br>
+
 
 ## 🚀 Technologies
 
@@ -56,7 +56,7 @@ Technologies that I used to develop this web client
 - [TypeScript](https://www.typescriptlang.org/)
 - [React Router DOM](https://reacttraining.com/react-router/)
 - [React Icons](https://react-icons.netlify.com/#/)
-- [UnForm](https://unform.dev/) [💜](https://rocketseat.com.br/)
+- [UnForm](https://unform.dev/)
 - [Yup](https://github.com/jquense/yup)
 - [Styled Components](https://styled-components.com/)
 - [Polished](https://github.com/styled-components/polished)
@@ -72,12 +72,12 @@ Technologies that I used to develop this web client
 
 ### Requirements
 
-- Have this application's [API](https://github.com/EliasGcf/gobarber-api) running
+- Have this application's [API](https://github.com/raphaelswk/go-barber/tree/main/gobarber-backend) running
 
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/EliasGcf/gobarber-web.git && cd gobarber-web
+$ git clone https://github.com/raphaelswk/go-barber.git && cd go-barber/gobarber-web
 ```
 
 **Follow the steps below**
@@ -98,4 +98,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💜 by Elias Gabriel 👋 [See my linkedin](https://www.linkedin.com/in/eliasgcf/)
+Made with ♥ &nbsp;by Raphael Socolowski 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/raphaelswk/)
