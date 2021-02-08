@@ -85,7 +85,7 @@ $ git clone https://github.com/raphaelswk/go-barber.git && cd go-barber/gobarber
 # Install the dependencies
 $ yarn
 
-# Be sure the file 'src/services/api.ts' have the IP to your API
+# Make sure the file 'src/services/api.ts' have the IP to your API
 
 # Start the client
 $ yarn start
