@@ -3,14 +3,19 @@
 # dependencies
 /gobarber-backend/node_modules
 /gobarber-web/node_modules
+/gobarber-mobile/node_modules
 /.pnp
 .pnp.js
 
 # testing
-/coverage
+/gobarber-backend/coverage
+/gobarber-web/coverage
+/gobarber-mobile/coverage
 
 # production
-/build
+/gobarber-backend/build
+/gobarber-web/build
+/gobarber-mobile/build
 
 # misc
 .DS_Store
@@ -22,3 +27,17 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Bundle artifact
+*.jsbundle
+
+# Android/IntelliJ
+.idea
+.gradle
+local.properties
+*.iml
+
+# Visual Studio Code
+/gobarber-backend/.vscode/
+/gobarber-web/.vscode/
+/gobarber-mobile/.vscode/

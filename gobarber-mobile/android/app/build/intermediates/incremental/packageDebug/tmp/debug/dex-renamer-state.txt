@@ -1,0 +1,7 @@
+#Sat Mar 06 09:47:39 GMT 2021
+base.0=/home/raphael/GitHubTest/go-barber/appgobarber/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/raphael/GitHubTest/go-barber/gobarber-mobile/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
