@@ -80,10 +80,10 @@ $ git clone https://github.com/raphaelswk/go-barber.git && cd go-barber/gobarber
 # Install the dependencies
 $ yarn
 
-# Be sure the file 'src/services/api.ts' have the IP to your API
+# Make sure the file 'src/services/api.ts' has the IP to your API
 
 # If you are going to emulate with android, run this command
-# Be sure to have the emulator open
+# Make sure the emulator is running
 $ yarn android
 
 # If you are going to emulate with ios, run this command
