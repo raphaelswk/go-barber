@@ -19,6 +19,7 @@ This was the main project created during GoStack bootcamp offered by [Rocketseat
 
 - [REST API](https://github.com/raphaelswk/go-barber/tree/main/gobarber-backend)
 - [Web client](https://github.com/raphaelswk/go-barber/tree/main/gobarber-web)
+- [Mobile client](https://github.com/raphaelswk/go-barber/tree/main/gobarber-mobile)
 
 ## 📝 License
 
