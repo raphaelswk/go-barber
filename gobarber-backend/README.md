@@ -119,7 +119,7 @@ $ yarn typeorm migration:run
 # To finish, run the api service
 $ yarn dev:server
 
-# Well done, project is started!
+# Well done, project has started!
 ```
 
 ## 📝 License
